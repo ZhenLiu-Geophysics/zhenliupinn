@@ -1,5 +1,6 @@
 # zhenliupinn
 ## Physics-Informed Neural Network Platform for Next-Generation AVO Inversion
+## _(Listed papers #1&#2 have been officially accepted, and the corresponding code will be released in the near future.)_
 > 🚧 **Status:** This repository is under active development.  
 > Core PINN / iPINN / iBPINN codes associated with accepted papers will be released in stages.
 
@@ -41,7 +42,7 @@
    *17 October 2025, PREPRINT (Version 3) available at Research Square [https://doi.org/10.21203/rs.3.rs-7097139/v3]*  
    🔗[BPI-ViT_Prototype paper_v3_covered.pdf](https://github.com/user-attachments/files/24049023/BPI-ViT_Prototype.paper_v3_covered.pdf)  
 
-**Listed papers #1&#2 have been officially accepted, and the corresponding code will be released in the near future.**
+
 
 ## 🧭 Development Roadmap (Planned)
 > The roadmap reflects the current development plan and may evolve as research progresses.
