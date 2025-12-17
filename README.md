@@ -28,16 +28,18 @@
 
 1. **Z. Liu, J. Zhang, Y. Chen, D. Feng and L. Qi**,  
    *“From Physics Constraints to Trustworthy Bayesian Reasoning: Synergies of PINN, iPINN, and iBPINN in Pre-stack AVO Inversion,”*  
-   *IEEE Transactions on Geoscience and Remote Sensing*, 2025. https://doi.org/10.1109/TGRS.2025.3636416
-   [From_Physics_Constraints_to_Trustworthy_Bayesian_Reasoning_Synergies_of_PINN_iPINN_and_iBPINN_in_Pre-stack_AVO_Inversion.pdf](https://github.com/user-attachments/files/24049007/From_Physics_Constraints_to_Trustworthy_Bayesian_Reasoning_Synergies_of_PINN_iPINN_and_iBPINN_in_Pre-stack_AVO_Inversion.pdf)
-2. **Zhen Liu, Junhua Zhang, Yongrui Chen, Deyong Feng, Liang Qi**,  
+   *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1-24, 2025, Art no. 5926424, doi: 10.1109/TGRS.2025.3636416.
+   🔗[https://ieeexplore.ieee.org/document/11265799]
+   🔗[[TGRS,Q1,IF=8.6]From_Physics_Constraints_to_Trustworthy_Bayesian_Reasoning_Synergies_of_PINN_iPINN_and_iBPINN_in_Prestack_AVO_Inversion.pdf](https://github.com/user-attachments/files/24216507/22.TGRS.Q1.IF.8.6.From_Physics_Constraints_to_Trustworthy_Bayesian_Reasoning_Synergies_of_PINN_iPINN_and_iBPINN_in_Prestack_AVO_Inversion.pdf)
+   
+3. **Zhen Liu, Junhua Zhang, Yongrui Chen, Deyong Feng, Liang Qi**,  
    *“Application of CNN-BiLSTM-PINN Network Integrating Physical and Numerical Constraints in AVO LMR Inversion,”*  
    *Interpretation*, 2025.
-3. **Zhen Liu, Junhua Zhang, Yongrui Chen
+4. **Zhen Liu, Junhua Zhang, Yongrui Chen
  et al.**  
    *“A Physics-aware Bayesian Vision Transformer for Seismic AVO Inversion: Towards an Embodied Structural Intelligence Framework with Structure-aware Uncertainty Modeling,”*  
    *17 October 2025, PREPRINT (Version 3) available at Research Square [https://doi.org/10.21203/rs.3.rs-7097139/v3]*  
-   [BPI-ViT_Prototype paper_v3_covered.pdf](https://github.com/user-attachments/files/24049023/BPI-ViT_Prototype.paper_v3_covered.pdf)  
+   🔗[BPI-ViT_Prototype paper_v3_covered.pdf](https://github.com/user-attachments/files/24049023/BPI-ViT_Prototype.paper_v3_covered.pdf)  
 
 **Listed papers #1&#2 have been officially accepted, and the corresponding code will be released in the near future.**
 
@@ -48,6 +50,7 @@
 - [ ] Release Bayesian PINN (BPINN / iBPINN)
 - [ ] Release BPI-ViT prototype (structure-aware uncertainty)
 - [ ] Add examples and reproducibility scripts
+
 
 
 
