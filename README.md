@@ -11,7 +11,7 @@
 
 - **CNN-PINN:** Classic convolutional PINN framework.
 - **CNN-BiLSTM-PINN:** Sequence modeling enhanced PINN.
-- **DC-PINN (Dual-Constraint PINN):** PINN incorporating both physical and numerical constraints (dual-constraint formulation).
+- **DC-PINN (Dual-Constraint PINN):** PINN incorporating both physical and numerical constraints (dual-constraint formulation).(https://doi.org/10.1190/int-2025-0020)
 - **iPINN:** PINN with learnable wavelet frequency (implicit PINN).
 - **BPINN:** Bayesian PINN for uncertainty quantification.
 - **iBPINN:** Frequency-adaptive Bayesian PINN. (https://doi.org/10.1109/TGRS.2025.3636416)
@@ -33,10 +33,14 @@
    🔗[https://ieeexplore.ieee.org/document/11265799]
    🔗[[TGRS,Q1,IF=8.6]From_Physics_Constraints_to_Trustworthy_Bayesian_Reasoning_Synergies_of_PINN_iPINN_and_iBPINN_in_Prestack_AVO_Inversion.pdf](https://github.com/user-attachments/files/24216507/22.TGRS.Q1.IF.8.6.From_Physics_Constraints_to_Trustworthy_Bayesian_Reasoning_Synergies_of_PINN_iPINN_and_iBPINN_in_Prestack_AVO_Inversion.pdf)
    
-3. **Zhen Liu, Junhua Zhang, Yongrui Chen, Deyong Feng, Liang Qi**,  
-   *“Application of CNN-BiLSTM-PINN Network Integrating Physical and Numerical Constraints in AVO LMR Inversion,”*  
-   *Interpretation*, 2025.
-4. **Zhen Liu, Junhua Zhang, Yongrui Chen
+2. **Zhen Liu, Junhua Zhang, Yongrui Chen, Deyong Feng, Liang Qi**,  
+   *"Application of CNN-BiLSTM-PINN Network Integrating Physical and Numerical Constraints in AVO LMR Inversion."*  
+   *Interpretation, (2026) 14 (1): T11–T34. doi: https://doi.org/10.1190/int-2025-0020*  
+  🔗[Application of CNN-BiLSTM-PINN Network Integrating Physical and Numerical Constraints in AVO LMR Inversion](https://doi.org/10.1190/int-2025-0020)  
+  🔗[Application of CNN-BiLSTM-PINN integrating physical and numerical constraints in AVO LMR inversion.pdf](https://github.com/user-attachments/files/26481778/Application.of.CNN-BiLSTM-PINN.integrating.physical.and.numerical.constraints.in.AVO.LMR.inversion.pdf)  
+
+   
+3. **Zhen Liu, Junhua Zhang, Yongrui Chen
  et al.**  
    *“A Physics-aware Bayesian Vision Transformer for Seismic AVO Inversion: Towards an Embodied Structural Intelligence Framework with Structure-aware Uncertainty Modeling,”*  
    *17 October 2025, PREPRINT (Version 3) available at Research Square [https://doi.org/10.21203/rs.3.rs-7097139/v3]*  
