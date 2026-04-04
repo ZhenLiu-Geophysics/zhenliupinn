@@ -1,8 +1,8 @@
 # zhenliupinn
 ## Physics-Informed Neural Network Platform for Next-Generation AVO Inversion
-## _(Listed papers #1&#2 have been officially published, and the corresponding code will be released in the near future.)_
+
 > 🚧 **Status:** This repository is under active development.  
-> Core PINN / iPINN / iBPINN codes associated with accepted papers will be released in stages.
+> Listed papers #1&#2 have been officially published, and the corresponding code will be released in the near future.
 
 
 **zhenliupinn** is an open-source platform for pre-stack AVO inversion, building a comprehensive family of physics-informed neural network (PINN) solutions. This project aims to drive next-generation geophysical inversion and reservoir characterization by integrating physics, AI, and Bayesian uncertainty modeling.
