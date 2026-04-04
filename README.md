@@ -17,7 +17,7 @@
 - **iBPINN:** Frequency-adaptive Bayesian PINN. (https://doi.org/10.1109/TGRS.2025.3636416)
 - **BPI-ViT:** Bayesian Physics-Informed Vision Transformer — the flagship model, enabling structure-level uncertainty quantification and attention-based interpretability (https://doi.org/10.21203/rs.3.rs-7097139/v3).
 - **Future Extensions:**  
-  Advanced PINN-based architectures, including uncertainty-aware inversion, structure-level modeling, and emerging quantum-informed extensions, are under active investigation.
+  Advanced PINN-based architectures are under active investigation.
 
 
 
